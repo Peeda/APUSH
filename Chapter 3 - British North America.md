@@ -194,7 +194,7 @@
 * 1680 Pope, Puebloan religious leader, led rebellion, besieging Santa Fe
 	* Killed 400, allowed 2000 Spaniards and Christian Puebloans to flee
 	* Perhaps the greatest act of Indigenous resistance
-* Destoyed traces of Spanish rule, christianity
+* Destroyed traces of Spanish rule, Christianity
 * 12 years later in 1692, Spanish returned
 ## Yamasee War
 * 1715, Yamasee were allies of Carolina
