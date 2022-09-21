@@ -34,9 +34,9 @@
 * 450,000 Africans in British colonies, out of 11 to 12 million in total
 	* More proportion of women, and more children per woman
 	* 1662 Virginia law stated slave children inherited condition of mother
-* Notions of race were socially construcucted with the rise of slavery, African trader's didn't really view it as selling their own people because skin didn't matter
+* Notions of race were socially constructed with the rise of slavery, African trader's didn't really view it as selling their own people because skin didn't matter
 * Distinction between indentured servants and slaves initially unclear, until 1643 law in Virginia making African women "tithable"
-	* Associated their work with difficult agricultural labor, distinguised from white women
+	* Associated their work with difficult agricultural labor, distinguished from white women
 # Turmoil in Britain
 ## Intro
 * Religous conflict 16th century England, Catholic and Protestant monarchs fighting
@@ -66,7 +66,7 @@
 	* Consolidated New England colonies into one entity
 	* Colonist's didn't like loss of individuality
 	* **Sir Edmund Andros** the dominion's governor also forced military service against Maine Indians in 1687
-* 1688 invasion by William of Orange made James II flee to france
+* 1688 invasion by William of Orange made James II flee to France
 ## Revolt
 * Provincial leader tried to hide the rise of William and Mary
 * Massachusetts, New York, Maryland colonists overthrew dominion government, restoring status quo
@@ -85,13 +85,13 @@
 ### Whoopsies
 * Turns out most of the population was Protestants from Virginia
 	* Radicals upset with Virginia's efforts to force adherence to Church of England
-* 1650, Puritans **revolted**, new government prohibited Catholocism and Anglicanism
+* 1650, Puritans **revolted**, new government prohibited Catholicism and Anglicanism
 * Governor William Stone attempted to put down revolt in 1655, didn't work until 1658
 * 1691, two years after Glorious Revolution, Calverts lost control
 ## Connecticut
 * Grew out of settlements in **Saybrook** and **New Haven**
 ### Newtown/Hartford
-* Thomas Jooker left Massachusetts for Connecticut beacuse of crowding
+* Thomas Hooker left Massachusetts for Connecticut because of crowding
 	* June 1636, settled in **Newtown,** later called **Hartford**
 ### New Haven
 * New Haven was formed in 1638, by John Davenport, Theophilus Eaton, and other Puritans
@@ -107,7 +107,7 @@
 * No governor, president and council
 * Passed bunch of laws
 	* No witchcraft trials
-	* No inprisonment for debt
+	* No imprisonment for debt
 	* 1652, **no chattel slavery**
 * Was a haven for Quakers, Jews, and other persecuted
 * 1663, Charles II granted charter for the colony of **Rhode Island and the Providence Plantations**
@@ -131,10 +131,80 @@
 	* Later became North and South Carolina, and Georgia
 * Wanted to attract people, offered
 	* Religious tolerance
-	* Political representation by aseembly
+	* Political representation by assembly
 	* No fees
 	* Large land grants
 * Those who could pay to come got 150 acres per family member, which included slaves
 * Lots of slavery, plantations of rice and indigo
-* North part was weakly controled due to size, founded North Carolina in 1691
+* North part was weakly controlled due to size, founded North Carolina in 1691
 # Riot, Rebellion, and Revolt
+## Intro
+* British establishment wasn't peaceful, Pequot War, Mystic massacre, King Phillip's War, Susquehannock War, Bacon's Rebellion, Pueblo Revolt
+* Sparknotes summary: so the Puritans liked the Mohegans so they fought the Pequots, then they pissed off the Wampanoags later and fought war, and then the gosh darn Mohegans joined on the side of the Wampanoags! what a day!
+## Pequot War
+* May 1637, Puritans from Massachusetts Bay and Connecticut marched into NA territory claimed by New England, to attack Pequots
+* Lit the town on fire
+* Motivated by rivalry between Pequot and Narragansett, and Mohegan who battled for control of fur and wampum,
+	* Conflict forced English and Dutch to choose sides
+* Victory provided security and stability for English colonies, benefitted Mohegan influence
+### Irony
+* History repeated when the Mohegan, desperate for more power, joined Wampanoag war against Puritans
+* Caused a more violent conflict in 1675, King Phillip's War, bringing and end to NA power in New England
+## King Phillip's War
+* 1675, John Sassamon, a Christian Harvard educated Wampanoag was found under ice of a pond
+* People told the English that warriors under Metacom, or King Phillip, killed Sassamon
+	* Sassamon previously accused Metacom of planning offense against the English
+* Three killers were found guilty and executed, couple weeks later a group of of Wampanoags killed 9 colonist in town of Swansea
+	* The execution stoked previous tensions involving NA feelings of inferiority in colonial relations
+### Uh oh
+* By end of 1675, most NA of Massachusetts entered the war, attacks many English towns
+* Attacked powerful and neutral **Narragansett people** in Rhode Island, 1675 in the **Great Swamp Fight**
+	* Killed a bunch of women and children, forced Narragansett to join war
+### The tide turns
+* 1676, colonies got some allies, including some Pequot and Mohegans, to fight
+* NA were unable to plant crops, forced to live off land, continued struggle was hard as they were continually pursued
+* Caught up with Metacom in 1676, sachem was slain by a Christian Native American
+### Resolution
+* 800-1000 English and >3000 NA perished in the 14 months
+* Many others fled or were sold into slavery
+* **Shift in relations, more hatred towards colonists**
+## Salem Witch Trials
+* 1692-1693, people from Salem Town, Salem Village, Ipswich, and Andover had trials
+## Bacon's Rebellion
+* Started in summer of 1675, with an argument about a pig
+	* Doug people visited Thomas Mathew to collect debt, took his pigs when he refused
+	* Sparked raids and counterraids, Susquehannock people were mistook for Doegs, leaving 14 dead
+	* Minor conflict ensued, attacks from the Susquehannock people
+* Berkeley didn't want to fight them, wanted to build forts
+	* Forts were built by his friends, who built them around their own plantations
+* 1676, group of colonists led by Bacon, promised no coups just protest
+* Bacon mobilized an army, made the group into full-fledge rebels by necessity
+	* Accused governor of conspiring with Indians
+* Bacon gathered an army, surrounded state house
+* Berkeley took of his shirt
+* **The rebellion was less an organized campaign, moreso a collection of local grievances and rivalries**
+* Sarah Drummond wanted independence from England
+* rebels ultimately were defeated, Bacon died in 1676, successors surrendered in 1677
+* **Even after rebellion, tensions more of less stayed**
+	* Still wealth gap
+	* Still native people treated badly
+	* Poor white Virginians did have conditions improved in years after though
+## Pueblo Revolt
+* Few years later, Spanish were maintaining control in New Mexico by suppressing Native American beliefs, enforcing Catholicism
+* 1680 Pope, Puebloan religious leader, led rebellion, besieging Santa Fe
+	* Killed 400, allowed 2000 Spaniards and Christian Puebloans to flee
+	* Perhaps the greatest act of Indigenous resistance
+* Destoyed traces of Spanish rule, christianity
+* 12 years later in 1692, Spanish returned
+## Yamasee War
+* 1715, Yamasee were allies of Carolina
+* Turned on colonists, nearly destroyed Carolina
+* Charles Town survived by preserving alliance with the Cherokee
+* 1717, conflict dried up mostly
+## Pennsylvania
+* Pennsylvania was pretty cool we all though
+* Increased immigration and land speculation increased demand, they were kinda cringe this one time
+### Walking Purchase of 1737
+* Delaware leaders agreed to sell land equivalent to a day and a half of walking
+* Hired skilled runners to "walk"
+* Become point of contention between Pennsylvania and Delaware during future Seven Year's War
