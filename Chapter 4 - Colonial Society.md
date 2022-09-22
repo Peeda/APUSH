@@ -1,17 +1,17 @@
 # Consumption and Trade in the British Atlantic
 ## Intro
 * Transatlantic trade benefitted both sides, created feeling of commonality between colonists and British
-* American income rose, people started buying instead of making tools, clothes, or utensials, called the **consumer revolution**
+* American income rose, people started buying instead of making tools, clothes, or utensils, called the **consumer revolution**
 ## Currency
 * Colonists had no metal for coins when they arrived, only the crown could mint, so used nontraditional currency
 	* Wampum
 	* nails
 	* tobacco
 * 1690 Massachusetts started using paper bills
-* Issues with counterfeitting and non universality between colonies caused Board of Trarde to restrict paper money Currency Acts of 1751 and 1763
-## The Carribean
-* Continental colonies were actually **less important** to Britain to sugar-producing islands of Carribean
-* Carribean colonies traded with continental, because they only had sugarcane
+* Issues with counterfeiting and non universality between colonies caused Board of Trade to restrict paper money Currency Acts of 1751 and 1763
+## The Caribbean
+* Continental colonies were actually **less important** to Britain to sugar-producing islands of Caribbean
+* Caribbean colonies traded with continental, because they only had sugarcane
 * Traded slaves too
 ## Parliament Control
 * To ensure profits of trade got to Britain, parliament taxed through Navigation Acts
@@ -20,7 +20,7 @@
 * Sugar Act in 1764, Stamp Act and the Townshend Acts, parliament taxed stuff
 * Patriots stopped importing, reverted to domestic products
 ## Growth
-* The consumer revolutoin fueled growth of cities
+* The consumer revolution fueled growth of cities
 * 1775, biggest ones were Boston, Newport, New York, Philadelphia, and Charleston
 * Urban society was stratified
 * 1725 - 1775 slavery was increasingly significant, urban residents wanted greater participation in maritime economy
